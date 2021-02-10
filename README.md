@@ -5,10 +5,11 @@
 - ~~Change theme color~~
 - Fill out About Me section
 - Include update resume in the assets and link to it
-- Add Fitness LP to the Projects section
-- Add email to Contact section
-- Have social links include GitHub and LinkedIn profile links
+- ~~Add Fitness LP to the Projects section~~
+- ~~Add email to Contact section~~
+- ~~Have social links include GitHub and LinkedIn profile links~~
   - Build a GitHub readme page
+  - Update LinkedIn page
 
 ## A minimal portfolio template for Developers!
 
